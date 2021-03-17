@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyApp1</string>
+    <string name="equals">Равно?</string>
 </resources>
